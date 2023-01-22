@@ -1,16 +1,16 @@
 # GrayscaleToBinary
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Clasele utilizate pentru realizarea proiectului:
+Clasele utilizate pentru realizarea proiectului:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>	Buffer
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> Consumer
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	GrayscaleToBinary
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Image
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	ImageInterface
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Producer
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	ReadImage
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	WriterResults
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Main
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>	GrayscaleToBinary
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>	Image
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>	ImageInterface
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>	Producer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>	ReadImage
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>	WriterResults
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>	Main
 
 
 
