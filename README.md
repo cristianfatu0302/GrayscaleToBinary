@@ -1,7 +1,7 @@
 # GrayscaleToBinary
 
 Pentru implementarea proiectului am avut doua pachete: packWork si packTest.
-&nbsp	Primul pachet contine urmatoarele clase:
+&nbsp;Primul pachet contine urmatoarele clase:
 	Buffer
 	Consumer
 	GrayscaleToBinary
