@@ -2,8 +2,8 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Clasele utilizate pentru realizarea proiectului:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Buffer
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Consumer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>	Buffer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> Consumer
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	GrayscaleToBinary
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Image
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	ImageInterface
