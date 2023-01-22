@@ -12,7 +12,6 @@ Pentru implementarea proiectului am avut doua pachete: packWork si packTest.
 	WriterResults
 
 
-
 int width = grayscaleImage.getWidth();
 int height = grayscaleImage.getHeight();
 for(int i = 0; i < width; i++){
@@ -45,6 +44,7 @@ for(int i = 0; i < width; i++){
 				grayscaleImage.setRGB(i, j, newColor.getRGB()); //noul pixel ia valoarea calculata
 			}
 	}
+
 
 Imaginea inaintea procesarii:
  ![alt text](https://github.com/cristianfatu0302/GrayscaleToBinary/blob/master/golf.bmp)
