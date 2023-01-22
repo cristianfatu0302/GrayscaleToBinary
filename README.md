@@ -1,15 +1,16 @@
 # GrayscaleToBinary
 
-Pentru implementarea proiectului am avut doua pachete: packWork si packTest.
-&nbsp;Primul pachet contine urmatoarele clase:
-	##Buffer
-	##Consumer
-	##GrayscaleToBinary
-	##Image
-	ImageInterface
-	Producer
-	ReadImage
-	WriterResults
+
+&nbsp;&nbsp;&nbsp;&nbsp;Clasele utilizate pentru realizarea proiectului:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Buffer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Consumer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	GrayscaleToBinary
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Image
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	ImageInterface
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Producer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	ReadImage
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	WriterResults
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Main
 
 
 
